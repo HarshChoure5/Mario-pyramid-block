@@ -6,10 +6,10 @@ A C program that prints two side-by-side pyramids inspired by Super Mario. The u
 
 ## 🔍 Example Output (height = 4)
 Height: 4
-  
-![Mario Game Screenshot](f21b8fab-092e-4f5f-abb9-539c3b796065.png)
-
-
+      #  #
+     ##  ##
+    ###  ###
+   ####  ####
 
 ## 🚀 Features
 - Prompts user for a non-negative integer height between 0 and 23 (inclusive).
