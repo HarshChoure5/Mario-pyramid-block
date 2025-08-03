@@ -5,14 +5,13 @@
 A C program that prints two side-by-side pyramids inspired by Super Mario. The user provides a height, and the program renders the double pyramid with a gap in between.
 
 ## 🔍 Example Output (height = 4)
-Height: 4
+Height: 3
 
-      #  # 
+      # # 
       
-     ##  ##
+     ## ##
      
-    ###  ###
-   ####  ####
+    ### ###
 
 ## 🚀 Features
 - Prompts user for a non-negative integer height between 0 and 23 (inclusive).
