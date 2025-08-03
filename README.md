@@ -4,7 +4,7 @@
 
 A C program that prints two side-by-side pyramids inspired by Super Mario. The user provides a height, and the program renders the double pyramid with a gap in between.
 
-## 🔍 Example Output (height = 4)
+## 🔍 Example Output (height = 3)
 Height: 3
 
       # # 
