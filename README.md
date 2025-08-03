@@ -1,6 +1,6 @@
 # Mario-pyramid-block
 
-# 🧱 Mario (More) - CS50 Problem Set 1
+# 🧱 Mario 
 
 A C program that prints two side-by-side pyramids inspired by Super Mario. The user provides a height, and the program renders the double pyramid with a gap in between.
 
