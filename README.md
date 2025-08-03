@@ -13,8 +13,6 @@ Height: 3
      
     ### ###
 
-    <img width="200" height="176" alt="image" src="https://github.com/user-attachments/assets/a5593294-a0d9-4b0f-944d-fcf3329ba3e3" />
-
 
 ## 🚀 Features
 - Prompts user for a non-negative integer height between 0 and 23 (inclusive).
