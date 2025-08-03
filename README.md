@@ -6,6 +6,7 @@ A C program that prints two side-by-side pyramids inspired by Super Mario. The u
 
 ## 🔍 Example Output (height = 4)
 Height: 4
+
       #  # 
       
      ##  ##
